@@ -25,4 +25,4 @@ You can add the "Designed for Tiny Tapeout" logo to your board. The logo comes i
 
 ## License
 
-The library is licensed under the [LICENSE](Apache License 2.0).
+The library is licensed under the [Apache License 2.0](LICENSE).
