@@ -23,6 +23,8 @@ You can add the "Designed for Tiny Tapeout" logo to your board. The logo comes i
 - `TT_PMOD_Logo_7mm` - 7 mm diameter
 - `TT_PMOD_Logo_10mm` - 10 mm diameter
 
+![Designed for Tiny Tapeout logo](images/tt_pmod_logo.png)
+
 ## License
 
 The library is licensed under the [Apache License 2.0](LICENSE).
