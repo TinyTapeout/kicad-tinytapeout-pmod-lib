@@ -1,16 +1,16 @@
-# Tiny Tapeout PMOD KiCad Library
+# Tiny Tapeout Pmod KiCad Library
 
-This is a KiCad library for the Tiny Tapeout PMODs. The PMODs plug to the Tiny Tapeout board, using up to three 6x2 PMOD connectors: one for the eight input signals (`ui_in`), one for the eight output signals (`uo_out`), and one for the eight bidirectional signals (`uio`).
+This is a KiCad library for the Tiny Tapeout Pmods. The Pmods plug to the Tiny Tapeout board, using up to three 6x2 Pmod connectors: one for the eight input signals (`ui_in`), one for the eight output signals (`uo_out`), and one for the eight bidirectional signals (`uio`).
 
 ## Library Contents
 
-### PMOD connectors
+### Pmod connectors
 
-The symbol for the PMOD connector is `PMOD_PERIPH_2x6` and the footprint is `PinHeader_2x06_P2.54mm_PMODPeriph2B`.
+The symbol for the Pmod connector is `PMOD_PERIPH_2x6` and the footprint is `PinHeader_2x06_P2.54mm_PMODPeriph2B`.
 
-If you are using more than a single PMOD connector, the connectors should be placed as follows:
+If you are using more than a single Pmod connector, the connectors should be placed as follows:
 
-![PMODs on the top edge of the board](images/pmod_conn_diagram.png)
+![Pmods on the top edge of the board](images/pmod_conn_diagram.png)
 
 You can achieve this using the "Position Relative To" (Shift+P) function in the PCB Editor, setting "Offset X" to 0.9 inch / 22.86 mm. This will ensure that the connectors are placed at the correct distance from each other.
 
